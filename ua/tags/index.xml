@@ -2,49 +2,49 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on DWNM</title>
-    <link>http://example.org/ua/tags/</link>
+    <link>https://okmechack.github.io/ua/tags/</link>
     <description>Recent content in Tags on DWNM</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© 2018 Copyright Text</copyright>
     <lastBuildDate>Fri, 06 Jul 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://example.org/ua/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://okmechack.github.io/ua/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Fly History</title>
-      <link>http://example.org/ua/tags/fly-history/</link>
+      <link>https://okmechack.github.io/ua/tags/fly-history/</link>
       <pubDate>Fri, 06 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/ua/tags/fly-history/</guid>
+      <guid>https://okmechack.github.io/ua/tags/fly-history/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hello World History</title>
-      <link>http://example.org/ua/tags/hello-world-history/</link>
+      <link>https://okmechack.github.io/ua/tags/hello-world-history/</link>
       <pubDate>Fri, 06 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/ua/tags/hello-world-history/</guid>
+      <guid>https://okmechack.github.io/ua/tags/hello-world-history/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Parkour History</title>
-      <link>http://example.org/ua/tags/parkour-history/</link>
+      <link>https://okmechack.github.io/ua/tags/parkour-history/</link>
       <pubDate>Mon, 16 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/ua/tags/parkour-history/</guid>
+      <guid>https://okmechack.github.io/ua/tags/parkour-history/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pelican Learning Markdown</title>
-      <link>http://example.org/ua/tags/pelican-learning-markdown/</link>
+      <link>https://okmechack.github.io/ua/tags/pelican-learning-markdown/</link>
       <pubDate>Sun, 24 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/ua/tags/pelican-learning-markdown/</guid>
+      <guid>https://okmechack.github.io/ua/tags/pelican-learning-markdown/</guid>
       <description></description>
     </item>
     

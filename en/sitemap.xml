@@ -3,220 +3,220 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/posts/my-first-post/</loc>
+    <loc>https://okmechack.github.io/posts/my-first-post/</loc>
     <lastmod>2018-10-29T00:21:40+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/posts/personal-blog/parkour/</loc>
+    <loc>https://okmechack.github.io/posts/personal-blog/parkour/</loc>
     <lastmod>2018-07-16T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ua"
-                href="http://example.org/ua/posts/personal-blog/parkour/"
+                href="https://okmechack.github.io/ua/posts/personal-blog/parkour/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/posts/personal-blog/parkour/"
+                href="https://okmechack.github.io/posts/personal-blog/parkour/"
                 />
   </url>
   
   <url>
-    <loc>http://example.org/about/about-me/</loc>
+    <loc>https://okmechack.github.io/about/about-me/</loc>
     <lastmod>2018-07-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ua"
-                href="http://example.org/ua/about/about-me/"
+                href="https://okmechack.github.io/ua/about/about-me/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/about/about-me/"
+                href="https://okmechack.github.io/about/about-me/"
                 />
   </url>
   
   <url>
-    <loc>http://example.org/about/about-site/</loc>
+    <loc>https://okmechack.github.io/about/about-site/</loc>
     <lastmod>2018-07-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ua"
-                href="http://example.org/ua/about/about-site/"
+                href="https://okmechack.github.io/ua/about/about-site/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/about/about-site/"
+                href="https://okmechack.github.io/about/about-site/"
                 />
   </url>
   
   <url>
-    <loc>http://example.org/posts/personal-blog/hello-world/</loc>
+    <loc>https://okmechack.github.io/posts/personal-blog/hello-world/</loc>
     <lastmod>2018-07-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ua"
-                href="http://example.org/ua/posts/personal-blog/hello-world/"
+                href="https://okmechack.github.io/ua/posts/personal-blog/hello-world/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/posts/personal-blog/hello-world/"
+                href="https://okmechack.github.io/posts/personal-blog/hello-world/"
                 />
   </url>
   
   <url>
-    <loc>http://example.org/posts/personal-blog/hot-air-baloon/</loc>
+    <loc>https://okmechack.github.io/posts/personal-blog/hot-air-baloon/</loc>
     <lastmod>2018-07-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/posts/cool-cafe/</loc>
+    <loc>https://okmechack.github.io/posts/cool-cafe/</loc>
     <lastmod>2018-06-24T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ua"
-                href="http://example.org/ua/posts/cool-cafe/"
+                href="https://okmechack.github.io/ua/posts/cool-cafe/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/posts/cool-cafe/"
+                href="https://okmechack.github.io/posts/cool-cafe/"
                 />
   </url>
   
   <url>
-    <loc>http://example.org/about/</loc>
+    <loc>https://okmechack.github.io/about/</loc>
     <lastmod>2018-07-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="ua"
-                href="http://example.org/ua/about/"
+                href="https://okmechack.github.io/ua/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/about/"
+                href="https://okmechack.github.io/about/"
                 />
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://okmechack.github.io/categories/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="ua"
-                href="http://example.org/ua/categories/"
+                href="https://okmechack.github.io/ua/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/categories/"
+                href="https://okmechack.github.io/categories/"
                 />
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://okmechack.github.io/</loc>
     <lastmod>2018-10-29T00:21:40+01:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="ua"
-                href="http://example.org/ua/"
+                href="https://okmechack.github.io/ua/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/"
+                href="https://okmechack.github.io/"
                 />
   </url>
   
   <url>
-    <loc>http://example.org/tags/first-program-history/</loc>
+    <loc>https://okmechack.github.io/tags/first-program-history/</loc>
     <lastmod>2018-07-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/fly-history/</loc>
+    <loc>https://okmechack.github.io/tags/fly-history/</loc>
     <lastmod>2018-07-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="ua"
-                href="http://example.org/ua/tags/fly-history/"
+                href="https://okmechack.github.io/ua/tags/fly-history/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/tags/fly-history/"
+                href="https://okmechack.github.io/tags/fly-history/"
                 />
   </url>
   
   <url>
-    <loc>http://example.org/tags/parkour-history/</loc>
+    <loc>https://okmechack.github.io/tags/parkour-history/</loc>
     <lastmod>2018-07-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="ua"
-                href="http://example.org/ua/tags/parkour-history/"
+                href="https://okmechack.github.io/ua/tags/parkour-history/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/tags/parkour-history/"
+                href="https://okmechack.github.io/tags/parkour-history/"
                 />
   </url>
   
   <url>
-    <loc>http://example.org/tags/pelican-learning-markdown/</loc>
+    <loc>https://okmechack.github.io/tags/pelican-learning-markdown/</loc>
     <lastmod>2018-06-24T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="ua"
-                href="http://example.org/ua/tags/pelican-learning-markdown/"
+                href="https://okmechack.github.io/ua/tags/pelican-learning-markdown/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/tags/pelican-learning-markdown/"
+                href="https://okmechack.github.io/tags/pelican-learning-markdown/"
                 />
   </url>
   
   <url>
-    <loc>http://example.org/posts/</loc>
+    <loc>https://okmechack.github.io/posts/</loc>
     <lastmod>2018-10-29T00:21:40+01:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="ua"
-                href="http://example.org/ua/posts/"
+                href="https://okmechack.github.io/ua/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/posts/"
+                href="https://okmechack.github.io/posts/"
                 />
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://okmechack.github.io/tags/</loc>
     <lastmod>2018-07-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="ua"
-                href="http://example.org/ua/tags/"
+                href="https://okmechack.github.io/ua/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/tags/"
+                href="https://okmechack.github.io/tags/"
                 />
   </url>
   

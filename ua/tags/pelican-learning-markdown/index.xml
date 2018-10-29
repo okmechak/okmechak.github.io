@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pelican Learning Markdown on DWNM</title>
-    <link>http://example.org/ua/tags/pelican-learning-markdown/</link>
+    <link>https://okmechack.github.io/ua/tags/pelican-learning-markdown/</link>
     <description>Recent content in Pelican Learning Markdown on DWNM</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© 2018 Copyright Text</copyright>
     <lastBuildDate>Sun, 24 Jun 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://example.org/ua/tags/pelican-learning-markdown/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://okmechack.github.io/ua/tags/pelican-learning-markdown/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Нова спроба</title>
-      <link>http://example.org/ua/posts/cool-cafe/</link>
+      <link>https://okmechack.github.io/ua/posts/cool-cafe/</link>
       <pubDate>Sun, 24 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/ua/posts/cool-cafe/</guid>
+      <guid>https://okmechack.github.io/ua/posts/cool-cafe/</guid>
       <description>Західна сторона є найкраща! There are two ways to specify the identifier:
 print(&amp;quot;The triple-colon syntax will *not* show line numbers.&amp;quot;)  To display line numbers, use a path-less shebang instead of colons:
 print(&amp;quot;The path-less shebang syntax *will* show line numbers.&amp;quot;)  code higlight

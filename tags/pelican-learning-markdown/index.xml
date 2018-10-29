@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pelican Learning Markdown on DWNM</title>
-    <link>http://example.org/tags/pelican-learning-markdown/</link>
+    <link>https://okmechack.github.io/tags/pelican-learning-markdown/</link>
     <description>Recent content in Pelican Learning Markdown on DWNM</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© 2018 Copyright Text</copyright>
     <lastBuildDate>Sun, 24 Jun 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://example.org/tags/pelican-learning-markdown/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://okmechack.github.io/tags/pelican-learning-markdown/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Mark Down Experience</title>
-      <link>http://example.org/posts/cool-cafe/</link>
+      <link>https://okmechack.github.io/posts/cool-cafe/</link>
       <pubDate>Sun, 24 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/cool-cafe/</guid>
+      <guid>https://okmechack.github.io/posts/cool-cafe/</guid>
       <description>West side is the best
 lalalala
   </description>

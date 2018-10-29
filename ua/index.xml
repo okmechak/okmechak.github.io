@@ -2,69 +2,69 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>DWNM</title>
-    <link>http://example.org/ua/</link>
+    <link>https://okmechack.github.io/ua/</link>
     <description>Recent content on DWNM</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© 2018 Copyright Text</copyright>
     <lastBuildDate>Mon, 16 Jul 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://example.org/ua/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://okmechack.github.io/ua/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Сокальська команда паркуру</title>
-      <link>http://example.org/ua/posts/personal-blog/parkour/</link>
+      <link>https://okmechack.github.io/ua/posts/personal-blog/parkour/</link>
       <pubDate>Mon, 16 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/ua/posts/personal-blog/parkour/</guid>
+      <guid>https://okmechack.github.io/ua/posts/personal-blog/parkour/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Повітряна Куля (Sunday)</title>
-      <link>http://example.org/ua/posts/personal-blog/hot-air-baloon/</link>
+      <link>https://okmechack.github.io/ua/posts/personal-blog/hot-air-baloon/</link>
       <pubDate>Fri, 06 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/ua/posts/personal-blog/hot-air-baloon/</guid>
+      <guid>https://okmechack.github.io/ua/posts/personal-blog/hot-air-baloon/</guid>
       <description>Повітряна куля. ТУДУ написати історія - алго програми - фотографії - ревювнути проект на диску</description>
     </item>
     
     <item>
       <title>Привіт, Світе!</title>
-      <link>http://example.org/ua/posts/personal-blog/hello-world/</link>
+      <link>https://okmechack.github.io/ua/posts/personal-blog/hello-world/</link>
       <pubDate>Fri, 06 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/ua/posts/personal-blog/hello-world/</guid>
+      <guid>https://okmechack.github.io/ua/posts/personal-blog/hello-world/</guid>
       <description>Замість вступу Коли інформація поширювалася з допомогою СD-Rom(ів), телефони підтримували 8 звукову поліфонію, а кожен кілобайт був на вагу золота. Коли тільки появлялися CD-Mp3 плеєри. А по домах ставало модним мати DVD-плеєр. Саме в цей час мої заробітчани батьки купили досить таки в диковинку ноут Samsung R40.
 Наскільки був радий словами не описати&amp;hellip; Але одна з перших важкостей - це відкрити його, адже екран досить туго відхилявся і було не докінця ясно, чи це так має бути, чи ні.</description>
     </item>
     
     <item>
       <title>Про веб-сторінку</title>
-      <link>http://example.org/ua/about/about-site/</link>
+      <link>https://okmechack.github.io/ua/about/about-site/</link>
       <pubDate>Fri, 06 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/ua/about/about-site/</guid>
+      <guid>https://okmechack.github.io/ua/about/about-site/</guid>
       <description>З роками шукаючи своє місце. Вагався між Фізикою і Програмування. Фізика - це покликання, змінювати цей світ і колективною працею пхати знання всього людства, але нажаль престиж ціє професії є невеликим і фінансова сторона теж досить скромна. Тому можна часто бачити, як стеденти із природничою освітою перетікають наприклад в програмісти. Отже, професія програміст - досить таки престижна і приваблива у фінансовому плані, але часто-густо їй(імхо) бракує цієї добродушності, яка б розвивала б загально людське благо.</description>
     </item>
     
     <item>
       <title>Про мене</title>
-      <link>http://example.org/ua/about/about-me/</link>
+      <link>https://okmechack.github.io/ua/about/about-me/</link>
       <pubDate>Fri, 06 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/ua/about/about-me/</guid>
+      <guid>https://okmechack.github.io/ua/about/about-me/</guid>
       <description>Програміст і фізик із Сокаля, Україна. Здобув ступінь бакалавра з фізики у Львівському Національному Університеті і маю зацікавлення до Фізики і Комп&amp;rsquo;ютерного моделювання. В даний момент навчаюся у Варшавському Університеті на спеціальності Комп&amp;rsquo;ютерна Фізика. Перед цим працював в Edvantis і Global Logic в ролі розробника компютерних програм. Із радістю відповів на Ваші повідомлення на е-мейл або в соціальних мережах
 Цей веб сайт генерований з допомогою інструмента Pelican використовуючи тему Pneumatic, відкритий код розташований на GitHub.</description>
     </item>
     
     <item>
       <title>Нова спроба</title>
-      <link>http://example.org/ua/posts/cool-cafe/</link>
+      <link>https://okmechack.github.io/ua/posts/cool-cafe/</link>
       <pubDate>Sun, 24 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/ua/posts/cool-cafe/</guid>
+      <guid>https://okmechack.github.io/ua/posts/cool-cafe/</guid>
       <description>Західна сторона є найкраща! There are two ways to specify the identifier:
 print(&amp;quot;The triple-colon syntax will *not* show line numbers.&amp;quot;)  To display line numbers, use a path-less shebang instead of colons:
 print(&amp;quot;The path-less shebang syntax *will* show line numbers.&amp;quot;)  code higlight

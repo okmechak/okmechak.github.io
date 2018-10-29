@@ -2,14 +2,14 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	
 	<sitemap>
-	   	<loc>http://example.org/en/sitemap.xml</loc>
+	   	<loc>https://okmechack.github.io/en/sitemap.xml</loc>
 		
 	   	<lastmod>2018-10-29T00:21:40+01:00</lastmod>
 		
 	</sitemap>
 	
 	<sitemap>
-	   	<loc>http://example.org/ua/sitemap.xml</loc>
+	   	<loc>https://okmechack.github.io/ua/sitemap.xml</loc>
 		
 	   	<lastmod>2018-07-16T00:00:00+00:00</lastmod>
 		

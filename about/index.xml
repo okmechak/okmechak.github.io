@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Abouts on DWNM</title>
-    <link>http://example.org/about/</link>
+    <link>https://okmechack.github.io/about/</link>
     <description>Recent content in Abouts on DWNM</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© 2018 Copyright Text</copyright>
     <lastBuildDate>Fri, 06 Jul 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://example.org/about/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://okmechack.github.io/about/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About Me</title>
-      <link>http://example.org/about/about-me/</link>
+      <link>https://okmechack.github.io/about/about-me/</link>
       <pubDate>Fri, 06 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/about/about-me/</guid>
+      <guid>https://okmechack.github.io/about/about-me/</guid>
       <description>I&amp;rsquo;m a software developer and physician from Sokal, Ukraine. I&amp;rsquo;m an honours Bachelor undergraduate at the University of Lviv with an interest in Physics and Computer Science. I am currently a student at Warsaw University; previously I worked at Edvantis and Global Logic. Feel free to get in touch via email or social networks!
 This website is generated with Pelican using the Pneumatic_upd theme, hosted on GitHub Pages, and open sourced on GitHub.</description>
     </item>
     
     <item>
       <title>About Site</title>
-      <link>http://example.org/about/about-site/</link>
+      <link>https://okmechack.github.io/about/about-site/</link>
       <pubDate>Fri, 06 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/about/about-site/</guid>
+      <guid>https://okmechack.github.io/about/about-site/</guid>
       <description>Just translate unkrainian version</description>
     </item>
     
