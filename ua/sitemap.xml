@@ -3,215 +3,215 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://okmechack.github.io/ua/posts/personal-blog/parkour/</loc>
+    <loc>https://okmechak.github.io/ua/posts/personal-blog/parkour/</loc>
     <lastmod>2018-07-16T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://okmechack.github.io/posts/personal-blog/parkour/"
+                href="https://okmechak.github.io/posts/personal-blog/parkour/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ua"
-                href="https://okmechack.github.io/ua/posts/personal-blog/parkour/"
+                href="https://okmechak.github.io/ua/posts/personal-blog/parkour/"
                 />
   </url>
   
   <url>
-    <loc>https://okmechack.github.io/ua/posts/personal-blog/hot-air-baloon/</loc>
+    <loc>https://okmechak.github.io/ua/posts/personal-blog/hot-air-baloon/</loc>
     <lastmod>2018-07-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://okmechack.github.io/ua/posts/personal-blog/hello-world/</loc>
-    <lastmod>2018-07-06T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okmechack.github.io/posts/personal-blog/hello-world/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ua"
-                href="https://okmechack.github.io/ua/posts/personal-blog/hello-world/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://okmechack.github.io/ua/about/about-site/</loc>
+    <loc>https://okmechak.github.io/ua/posts/personal-blog/hello-world/</loc>
     <lastmod>2018-07-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://okmechack.github.io/about/about-site/"
+                href="https://okmechak.github.io/posts/personal-blog/hello-world/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ua"
-                href="https://okmechack.github.io/ua/about/about-site/"
+                href="https://okmechak.github.io/ua/posts/personal-blog/hello-world/"
                 />
   </url>
   
   <url>
-    <loc>https://okmechack.github.io/ua/about/about-me/</loc>
+    <loc>https://okmechak.github.io/ua/about/about-site/</loc>
     <lastmod>2018-07-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://okmechack.github.io/about/about-me/"
+                href="https://okmechak.github.io/about/about-site/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ua"
-                href="https://okmechack.github.io/ua/about/about-me/"
+                href="https://okmechak.github.io/ua/about/about-site/"
                 />
   </url>
   
   <url>
-    <loc>https://okmechack.github.io/ua/posts/cool-cafe/</loc>
+    <loc>https://okmechak.github.io/ua/about/about-me/</loc>
+    <lastmod>2018-07-06T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okmechak.github.io/about/about-me/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ua"
+                href="https://okmechak.github.io/ua/about/about-me/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://okmechak.github.io/ua/posts/cool-cafe/</loc>
     <lastmod>2018-06-24T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://okmechack.github.io/posts/cool-cafe/"
+                href="https://okmechak.github.io/posts/cool-cafe/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ua"
-                href="https://okmechack.github.io/ua/posts/cool-cafe/"
+                href="https://okmechak.github.io/ua/posts/cool-cafe/"
                 />
   </url>
   
   <url>
-    <loc>https://okmechack.github.io/ua/about/</loc>
+    <loc>https://okmechak.github.io/ua/about/</loc>
     <lastmod>2018-07-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://okmechack.github.io/about/"
+                href="https://okmechak.github.io/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ua"
-                href="https://okmechack.github.io/ua/about/"
+                href="https://okmechak.github.io/ua/about/"
                 />
   </url>
   
   <url>
-    <loc>https://okmechack.github.io/ua/categories/</loc>
+    <loc>https://okmechak.github.io/ua/categories/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://okmechack.github.io/categories/"
+                href="https://okmechak.github.io/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ua"
-                href="https://okmechack.github.io/ua/categories/"
+                href="https://okmechak.github.io/ua/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://okmechack.github.io/ua/</loc>
+    <loc>https://okmechak.github.io/ua/</loc>
     <lastmod>2018-07-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://okmechack.github.io/"
+                href="https://okmechak.github.io/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ua"
-                href="https://okmechack.github.io/ua/"
+                href="https://okmechak.github.io/ua/"
                 />
   </url>
   
   <url>
-    <loc>https://okmechack.github.io/ua/tags/fly-history/</loc>
+    <loc>https://okmechak.github.io/ua/tags/fly-history/</loc>
     <lastmod>2018-07-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://okmechack.github.io/tags/fly-history/"
+                href="https://okmechak.github.io/tags/fly-history/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ua"
-                href="https://okmechack.github.io/ua/tags/fly-history/"
+                href="https://okmechak.github.io/ua/tags/fly-history/"
                 />
   </url>
   
   <url>
-    <loc>https://okmechack.github.io/ua/tags/hello-world-history/</loc>
+    <loc>https://okmechak.github.io/ua/tags/hello-world-history/</loc>
     <lastmod>2018-07-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://okmechack.github.io/ua/tags/parkour-history/</loc>
+    <loc>https://okmechak.github.io/ua/tags/parkour-history/</loc>
     <lastmod>2018-07-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://okmechack.github.io/tags/parkour-history/"
+                href="https://okmechak.github.io/tags/parkour-history/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ua"
-                href="https://okmechack.github.io/ua/tags/parkour-history/"
+                href="https://okmechak.github.io/ua/tags/parkour-history/"
                 />
   </url>
   
   <url>
-    <loc>https://okmechack.github.io/ua/tags/pelican-learning-markdown/</loc>
+    <loc>https://okmechak.github.io/ua/tags/pelican-learning-markdown/</loc>
     <lastmod>2018-06-24T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://okmechack.github.io/tags/pelican-learning-markdown/"
+                href="https://okmechak.github.io/tags/pelican-learning-markdown/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ua"
-                href="https://okmechack.github.io/ua/tags/pelican-learning-markdown/"
+                href="https://okmechak.github.io/ua/tags/pelican-learning-markdown/"
                 />
   </url>
   
   <url>
-    <loc>https://okmechack.github.io/ua/posts/</loc>
+    <loc>https://okmechak.github.io/ua/posts/</loc>
     <lastmod>2018-07-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://okmechack.github.io/posts/"
+                href="https://okmechak.github.io/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ua"
-                href="https://okmechack.github.io/ua/posts/"
+                href="https://okmechak.github.io/ua/posts/"
                 />
   </url>
   
   <url>
-    <loc>https://okmechack.github.io/ua/tags/</loc>
+    <loc>https://okmechak.github.io/ua/tags/</loc>
     <lastmod>2018-07-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://okmechack.github.io/tags/"
+                href="https://okmechak.github.io/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ua"
-                href="https://okmechack.github.io/ua/tags/"
+                href="https://okmechak.github.io/ua/tags/"
                 />
   </url>
   
