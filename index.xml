@@ -7,9 +7,77 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© 2018 Copyright Text</copyright>
+    <lastBuildDate>Mon, 29 Oct 2018 00:21:40 +0100</lastBuildDate>
     
 	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>My First Post</title>
+      <link>http://example.org/posts/my-first-post/</link>
+      <pubDate>Mon, 29 Oct 2018 00:21:40 +0100</pubDate>
+      
+      <guid>http://example.org/posts/my-first-post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sokal parkour team</title>
+      <link>http://example.org/posts/personal-blog/parkour/</link>
+      <pubDate>Mon, 16 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/personal-blog/parkour/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>http://example.org/about/about-me/</link>
+      <pubDate>Fri, 06 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/about/about-me/</guid>
+      <description>I&amp;rsquo;m a software developer and physician from Sokal, Ukraine. I&amp;rsquo;m an honours Bachelor undergraduate at the University of Lviv with an interest in Physics and Computer Science. I am currently a student at Warsaw University; previously I worked at Edvantis and Global Logic. Feel free to get in touch via email or social networks!
+This website is generated with Pelican using the Pneumatic_upd theme, hosted on GitHub Pages, and open sourced on GitHub.</description>
+    </item>
+    
+    <item>
+      <title>About Site</title>
+      <link>http://example.org/about/about-site/</link>
+      <pubDate>Fri, 06 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/about/about-site/</guid>
+      <description>Just translate unkrainian version</description>
+    </item>
+    
+    <item>
+      <title>Hello, World!</title>
+      <link>http://example.org/posts/personal-blog/hello-world/</link>
+      <pubDate>Fri, 06 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/personal-blog/hello-world/</guid>
+      <description>My first computer, how programs works
+      </description>
+    </item>
+    
+    <item>
+      <title>Hot Air Baloon (Sunday)</title>
+      <link>http://example.org/posts/personal-blog/hot-air-baloon/</link>
+      <pubDate>Fri, 06 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/personal-blog/hot-air-baloon/</guid>
+      <description>Hot Air Baloon. TODO describe the story</description>
+    </item>
+    
+    <item>
+      <title>Mark Down Experience</title>
+      <link>http://example.org/posts/cool-cafe/</link>
+      <pubDate>Sun, 24 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/cool-cafe/</guid>
+      <description>West side is the best
+lalalala
+  </description>
+    </item>
     
   </channel>
 </rss>
