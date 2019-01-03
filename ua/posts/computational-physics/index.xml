@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Компютерна Фізика on DWNM</title>
+    <link>https://okmechak.github.io/ua/posts/computational-physics/</link>
+    <description>Recent content in Компютерна Фізика on DWNM</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2018 Copyright Text</copyright>
+    <lastBuildDate>Sat, 29 Dec 2018 02:03:18 +0200</lastBuildDate>
+    
+	<atom:link href="https://okmechak.github.io/ua/posts/computational-physics/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>

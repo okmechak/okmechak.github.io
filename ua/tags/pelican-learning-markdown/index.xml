@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pelican Learning Markdown on DWNM</title>
+    <link>https://okmechak.github.io/ua/tags/pelican-learning-markdown/</link>
+    <description>Recent content in Pelican Learning Markdown on DWNM</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2018 Copyright Text</copyright>
+    <lastBuildDate>Sun, 24 Jun 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://okmechak.github.io/ua/tags/pelican-learning-markdown/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>MarkDown</title>
+      <link>https://okmechak.github.io/ua/markdown-experience/cool-cafe/</link>
+      <pubDate>Sun, 24 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://okmechak.github.io/ua/markdown-experience/cool-cafe/</guid>
+      <description>Headers These statements:
+# This is an &amp;lt;h1&amp;gt; tag
+## This is an &amp;lt;h2&amp;gt; tag
+###### This is an &amp;lt;h6&amp;gt; tag
+will give:
+This is an &amp;lt;h1&amp;gt; tag This is an &amp;lt;h2&amp;gt; tag This is an &amp;lt;h6&amp;gt; tag Emphasis *This text will be italic*
+_This will also be italic_
+**This text will be bold**
+__This will also be bold__
+_You **can** combine them_
+~~This will striked throug~~
+This text will be italic</description>
+    </item>
+    
+  </channel>
+</rss>
