@@ -169,6 +169,10 @@
         <div class="col s12 m8 offset-m2 l6">
             
 
+<p><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.6.0/katex.min.css">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.6.0/katex.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.6.0/contrib/auto-render.min.js"></script></p>
+
 <h1 id="headers">Headers</h1>
 
 <hr />
@@ -277,7 +281,8 @@ but html <code>&lt;img&gt;</code> tag provides more control, so:
 
 <hr />
 
-<p>&#96;&#96;&#96;<code>javascript</code><br />
+<p>TODO: how to fully higlight syntax?<br />
+&#96;&#96;&#96;<code>javascript</code><br />
 <code>function fancyAlert(arg) {</code><br />
     <code>if(arg) {</code><br />
         <code>$.facebox({div:'#foo'})</code><br />
@@ -302,6 +307,8 @@ but html <code>&lt;img&gt;</code> tag provides more control, so:
 <h1 id="task-list">Task List</h1>
 
 <hr />
+
+<p>TODO: how to write todos lists?</p>
 
 <p>For some reason don&rsquo;t work</p>
 
@@ -359,6 +366,40 @@ but html <code>&lt;img&gt;</code> tag provides more control, so:
 <p>after that you can use standard codes of smiley &#58;smile&#58; will give:
 😄</p>
 
+<h1 id="mathematic-formulas">Mathematic formulas</h1>
+
+<hr />
+
+<p><a href="http://www.latkin.org/blog/2016/08/07/better-tex-math-typesetting-in-hugo/">Good article about Tex in hugo</a></p>
+
+<p>Here&rsquo;s sum inline math:
+<span class="jsonly">
+                  
+        \(\sum_{n=1}^{\infty} 2^{-n} = 1\)
+    
+</span>
+
+<noscript>
+                  
+        <img style="display:inline;vertical-align:middle;" src="https://latex.codecogs.com/gif.latex?\inline&space;%5csum_%7bn%3d1%7d%5e%7b%5cinfty%7d%202%5e%7b-n%7d%20%3d%201" title="\sum_{n=1}^{\infty} 2^{-n} = 1" />
+    
+</noscript>.</p>
+
+<p>Display mode math looks like
+<span class="jsonly">
+     
+        $$\int \frac{1}{x} dx = \ln |x|$$
+    
+</span>
+
+<noscript>
+     
+        <div style="text-align:center;">
+            <img src="https://latex.codecogs.com/gif.latex?%5cint%20%5cfrac%7b1%7d%7bx%7d%20dx%20%3d%20%5cln%20%7cx%7c" title="\int \frac{1}{x} dx = \ln |x|" />
+        </div>
+    
+</noscript></p>
+
 <h1 id="html-addons">HTML addons</h1>
 
 <hr />
@@ -367,7 +408,7 @@ but html <code>&lt;img&gt;</code> tag provides more control, so:
     <iframe src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
 </div>   
 
-<p>lala</p>
+<script>renderMathInElement(document.body);</script>
 
         </div>
     </section>
