@@ -13,6 +13,18 @@
     
     
     <item>
+      <title>Тестова Сторінка</title>
+      <link>https://okmechak.github.io/ua/test/test/</link>
+      <pubDate>Wed, 02 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://okmechak.github.io/ua/test/test/</guid>
+      <description>Після деякого часу пошуків статичного генератора для персональної веб-сторінки, зупинився на HUGO.
+Кілька ключових моментів, чому саме HUGO:
+ Надзвичайно швидка генерація(вимірюється в мілісекундах). Написаний на мові GO. Інтерактивний:
+Редагуючи сторінки генератор в реальному часі підтягує зміни, що неймовірно полегшує написання статтей(На відміну від генератора Pelican). Зміни відслідковуються звідусіль. Чи то файл конфігурації, чи то пост, чи нові файли зображеннь. Не складний в користуванні із детальною документацією. Активна спільнота користувачів.</description>
+    </item>
+    
+    <item>
       <title>Сокальська команда паркуру</title>
       <link>https://okmechak.github.io/ua/posts/personal-blog/parkour/parkour/</link>
       <pubDate>Mon, 16 Jul 2018 00:00:00 +0000</pubDate>
@@ -57,25 +69,6 @@
       <guid>https://okmechak.github.io/ua/about/me/about-me/</guid>
       <description>Програміст і фізик із Сокаля, Україна. Здобув ступінь бакалавра з фізики у Львівському Національному Університеті і маю зацікавлення до Фізики і Комп&amp;rsquo;ютерного моделювання. В даний момент навчаюся у Варшавському Університеті на спеціальності Комп&amp;rsquo;ютерна Фізика. Перед цим працював в Edvantis і Global Logic в ролі розробника компютерних програм. Із радістю відповів на Ваші повідомлення на е-мейл або в соціальних мережах
 Цей веб сайт генерований з допомогою інструмента Pelican використовуючи тему Pneumatic, відкритий код розташований на GitHub.</description>
-    </item>
-    
-    <item>
-      <title>MarkDown</title>
-      <link>https://okmechak.github.io/ua/markdown-experience/cool-cafe/</link>
-      <pubDate>Sun, 24 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://okmechak.github.io/ua/markdown-experience/cool-cafe/</guid>
-      <description>Headers These statements:
-# This is an &amp;lt;h1&amp;gt; tag
-## This is an &amp;lt;h2&amp;gt; tag
-###### This is an &amp;lt;h6&amp;gt; tag
-will give:
-This is an &amp;lt;h1&amp;gt; tag This is an &amp;lt;h2&amp;gt; tag This is an &amp;lt;h6&amp;gt; tag Emphasis *This text will be italic*
-_This will also be italic_
-**This text will be bold**
-__This will also be bold__
-_You **can** combine them_
-~~This will striked throug~~</description>
     </item>
     
   </channel>

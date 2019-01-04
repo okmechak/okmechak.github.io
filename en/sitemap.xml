@@ -33,6 +33,21 @@
   </url>
   
   <url>
+    <loc>https://okmechak.github.io/test/test/</loc>
+    <lastmod>2019-01-02T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ua"
+                href="https://okmechak.github.io/ua/test/test/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okmechak.github.io/test/test/"
+                />
+  </url>
+  
+  <url>
     <loc>https://okmechak.github.io/posts/personal-blog/</loc>
     <lastmod>2018-12-29T02:03:18+02:00</lastmod>
     <xhtml:link
@@ -165,6 +180,22 @@
   </url>
   
   <url>
+    <loc>https://okmechak.github.io/tags/markdown-tex-shortcodes-%D1%82%D0%B5%D0%BC%D0%B8/</loc>
+    <lastmod>2019-01-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ua"
+                href="https://okmechak.github.io/ua/tags/markdown-tex-shortcodes-%D1%82%D0%B5%D0%BC%D0%B8/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okmechak.github.io/tags/markdown-tex-shortcodes-%D1%82%D0%B5%D0%BC%D0%B8/"
+                />
+  </url>
+  
+  <url>
     <loc>https://okmechak.github.io/tags/parkour-history/</loc>
     <lastmod>2018-07-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -208,6 +239,22 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://okmechak.github.io/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://okmechak.github.io/test/</loc>
+    <lastmod>2019-01-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ua"
+                href="https://okmechak.github.io/ua/test/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okmechak.github.io/test/"
                 />
   </url>
   

@@ -33,6 +33,21 @@
   </url>
   
   <url>
+    <loc>https://okmechak.github.io/ua/test/test/</loc>
+    <lastmod>2019-01-02T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okmechak.github.io/test/test/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ua"
+                href="https://okmechak.github.io/ua/test/test/"
+                />
+  </url>
+  
+  <url>
     <loc>https://okmechak.github.io/ua/posts/personal-blog/</loc>
     <lastmod>2018-12-29T02:03:18+02:00</lastmod>
     <xhtml:link
@@ -128,11 +143,6 @@
   </url>
   
   <url>
-    <loc>https://okmechak.github.io/ua/markdown-experience/cool-cafe/</loc>
-    <lastmod>2018-06-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://okmechak.github.io/ua/categories/</loc>
     <priority>0</priority>
     <xhtml:link
@@ -170,9 +180,19 @@
   </url>
   
   <url>
-    <loc>https://okmechak.github.io/ua/markdown-experience/</loc>
-    <lastmod>2018-06-24T00:00:00+00:00</lastmod>
+    <loc>https://okmechak.github.io/ua/tags/markdown-tex-shortcodes-%D1%82%D0%B5%D0%BC%D0%B8/</loc>
+    <lastmod>2019-01-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okmechak.github.io/tags/markdown-tex-shortcodes-%D1%82%D0%B5%D0%BC%D0%B8/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ua"
+                href="https://okmechak.github.io/ua/tags/markdown-tex-shortcodes-%D1%82%D0%B5%D0%BC%D0%B8/"
+                />
   </url>
   
   <url>
@@ -189,12 +209,6 @@
                 hreflang="ua"
                 href="https://okmechak.github.io/ua/tags/parkour-history/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://okmechak.github.io/ua/tags/pelican-learning-markdown/</loc>
-    <lastmod>2018-06-24T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -225,6 +239,22 @@
                 rel="alternate"
                 hreflang="ua"
                 href="https://okmechak.github.io/ua/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://okmechak.github.io/ua/test/</loc>
+    <lastmod>2019-01-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okmechak.github.io/test/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ua"
+                href="https://okmechak.github.io/ua/test/"
                 />
   </url>
   
