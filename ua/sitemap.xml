@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://okmechak.github.io/ua/posts/computer-science/what-to-know/</loc>
+    <lastmod>2019-01-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://okmechak.github.io/ua/</loc>
     <lastmod>2019-01-02T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -213,6 +218,7 @@
   
   <url>
     <loc>https://okmechak.github.io/ua/posts/</loc>
+    <lastmod>2019-01-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -224,6 +230,12 @@
                 hreflang="ua"
                 href="https://okmechak.github.io/ua/posts/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://okmechak.github.io/ua/tags/recomendations-study/</loc>
+    <lastmod>2019-01-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
