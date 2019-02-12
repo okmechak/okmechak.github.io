@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recomendations Study on DWNM</title>
+    <link>https://okmechak.github.io/tags/recomendations-study/</link>
+    <description>Recent content in Recomendations Study on DWNM</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ua</language>
+    <copyright>Copyright © 2019 Oleg Kmechak  All Rights Reserved.</copyright>
+    <lastBuildDate>Tue, 22 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://okmechak.github.io/tags/recomendations-study/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Що потрібно знати програмісту?</title>
+      <link>https://okmechak.github.io/posts/computer-science/what-to-know/</link>
+      <pubDate>Tue, 22 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://okmechak.github.io/posts/computer-science/what-to-know/</guid>
+      <description>TODO
+На цю тему було сказано багато думок і поглядів, але все ж після перечитання багатьох речей, в мене лишилися пробіли. Тож тут в цій статті для Вашої уваги зберу кілька цікавих точок зору на це. А тим хто дочитає до кінця - сюрприз: навчальна програма для програмістів в Львівськійй Політехніці і у Варшавській 😄</description>
+    </item>
+    
+  </channel>
+</rss>

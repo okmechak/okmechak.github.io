@@ -1,34 +1,33 @@
 /* General */
 
 body {
-    font-weight: 1;
+    font-weight: 350;
 }
 
 .max-width {
-    max-width: 280px;
+    max-width: 1280px;
     margin: 0 auto;
 }
 
 .clear-padding {
-    padding: 10 !important;
+    padding: 0 !important;
 }
 
 /* Header */
 
 .brand-logo {
-    font-weight: 4000;
+    font-weight: 400;
     font-size: 1.7rem !important;
 }
 
 /* Article */
 
 .article-image {
-    width: 1000%;
-    height: 300%;
+    width: 100%;
     background-size: cover;
-    background-repeat: repeat;
-    background-position: 500%;
-    padding-top: 1000%;
+    background-repeat: no-repeat;
+    background-position: 50%;
+    padding-top: 42%;
 }
 
 .article-meta-author-name {

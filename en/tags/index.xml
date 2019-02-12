@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on DWNM</title>
+    <link>https://okmechak.github.io/en/tags/</link>
+    <description>Recent content in Tags on DWNM</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ua</language>
+    <copyright>Copyright © 2019 Oleg Kmechak  All Rights Reserved.</copyright>
+    <lastBuildDate>Fri, 06 Jul 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://okmechak.github.io/en/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>First Program History</title>
+      <link>https://okmechak.github.io/en/tags/first-program-history/</link>
+      <pubDate>Fri, 06 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://okmechak.github.io/en/tags/first-program-history/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fly History</title>
+      <link>https://okmechak.github.io/en/tags/fly-history/</link>
+      <pubDate>Fri, 06 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://okmechak.github.io/en/tags/fly-history/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Markdown Tex Shortcodes Теми</title>
+      <link>https://okmechak.github.io/en/tags/markdown-tex-shortcodes-%D1%82%D0%B5%D0%BC%D0%B8/</link>
+      <pubDate>Wed, 02 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://okmechak.github.io/en/tags/markdown-tex-shortcodes-%D1%82%D0%B5%D0%BC%D0%B8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parkour History</title>
+      <link>https://okmechak.github.io/en/tags/parkour-history/</link>
+      <pubDate>Mon, 16 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://okmechak.github.io/en/tags/parkour-history/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
