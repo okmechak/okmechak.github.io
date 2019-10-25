@@ -6,6 +6,7 @@ section = "lala"
 disqus = "true"
 disqus_shortname = "компютерна-фізика"
 tags = ["recomendations", "study"]
+sidebar = "toc"
 +++
 
 # Вступ
