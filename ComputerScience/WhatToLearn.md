@@ -1,16 +1,11 @@
-+++
-    title =  "Що потрібно знати програмісту?"
-    date = "2019-01-22"
-    tags = ["recomendations", "study"]
-    slug = "what-to-learn"
-    author = "Олег Кмечак"
-    description = "Що потрібно знати програмісту. Різні відповіді та погляди на це питання."
-    #menu:
-    #  main:
-    #    parent: Блог
-    draft = "true"  
-    timeofreading = "10 хв"
-+++
+---
+title: Що потрібно знати програмісту?
+date: 2019-01-22
+tags: [recomendations, study]
+author: Олег Кмечак
+description: Що потрібно знати програмісту. Різні відповіді та погляди на це питання.
+timeofreading: 10 хв
+---
 
 TODO
 
