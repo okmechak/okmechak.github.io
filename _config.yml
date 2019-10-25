@@ -4,3 +4,15 @@ plugins:
 relative_links:
   enabled: true
   collections: true
+nav:
+  - title: redame
+    url: readme.html
+    subnav:
+      - title: Heroku
+        url: test/test.html
+        subnav:
+          - title: Jekyll on Heroku
+            url: jekyll-on-heroku.html
+  - title: Contact
+    url: contact.html
+
