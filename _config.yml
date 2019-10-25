@@ -6,4 +6,5 @@ relative_links:
 include:
   - contact.md
   - about.md
-theme: jekyll-theme-tactile
+
+theme: jekyll-theme-architect
