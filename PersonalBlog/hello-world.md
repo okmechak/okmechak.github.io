@@ -20,9 +20,9 @@ and here
 
 <table>
   <tr>
-    <th><img width="100%" alt="Samsung R40" src="/samsung_r40.png"></th>
-    <th><img width="100%" alt="standard theme" src="/xp_desktop_400_300.jpg"></th>
-    <th><img width="100%" alt="High contrast theme" src="/xp_high_contr_desktop_480_300.jpg"></th> 
+    <th><img width="100%" alt="Samsung R40" src="./images/samsung_r40.png"></th>
+    <th><img width="100%" alt="standard theme" src="./images/xp_desktop_400_300.jpg"></th>
+    <th><img width="100%" alt="High contrast theme" src="./images/xp_high_contr_desktop_480_300.jpg"></th> 
   </tr>
 </table> 
 
@@ -40,12 +40,12 @@ __ось такий старенький будинок__:
 
 | | |
 |:--|---:|
-|Nero|<img alt="standard theme" height="25" width="25" src="/nero_256.png">|
-|Winamp 5.0|<img alt="standard theme" height="25" width="25" src="/winamp_256.png">|
-|Adobe Photoshop|<img alt="standard theme" height="25" width="25" src="/photoshop_256.png">|
-|Virtual Dub|<img alt="standard theme" height="25" width="25" src="/virtualdub_256.png">| 
-|Daemon Tools|<img alt="standard theme" height="25" width="25" src="/daemon_256.png">|
-|GTA San Andreas|<img alt="standard theme" height="25" width="25" src="/gta_sa_256.png">|
+|Nero|<img alt="standard theme" height="25" width="25" src="./images/nero_256.png">|
+|Winamp 5.0|<img alt="standard theme" height="25" width="25" src="./images/winamp_256.png">|
+|Adobe Photoshop|<img alt="standard theme" height="25" width="25" src="./images/photoshop_256.png">|
+|Virtual Dub|<img alt="standard theme" height="25" width="25" src="./images/virtualdub_256.png">| 
+|Daemon Tools|<img alt="standard theme" height="25" width="25" src="./images/daemon_256.png">|
+|GTA San Andreas|<img alt="standard theme" height="25" width="25" src="./images/gta_sa_256.png">|
 
 
 І також музика, короткі смішні відео і мультфільми, наприклад [Ice Age](https://www.youtube.com/watch?v=ZorjSyK9wKE).
@@ -57,7 +57,7 @@ __ось такий старенький будинок__:
 
 З іншої сторони в Сокалі були популярні відеозйомки весілль і інших подій. І власне ці люди і використовували [Sony Vegas](https://uk.wikipedia.org/wiki/Vegas_Pro) - професійний відеоредактор.
 
-<img width = "100%" alt="Sony Vegas" src="/sony_vegas.jpg">
+<img width = "100%" alt="Sony Vegas" src="./images/sony_vegas.jpg">
 
 Sony Vegas мав багато налаштуваннь. І чим ~~далі в ліс тим більше дров~~ довше працюєш із цією програмою, очевидно, починаєш краще її розуміти, призначення різноманітних перемикачів, логіку, структуру, і якими інструментами краще досягнути певної цілі чи ефектів. І деякі опції\налаштування, які до цього ігнорувалися через незнання, з часом отримують розуміння. В певний момент і визріло питання: а хто і як зробив цю програму..?
 
@@ -66,15 +66,15 @@ Sony Vegas мав багато налаштуваннь. І чим ~~далі в
 Дуже популярний в певний момент музичний плеєром, який мав неймовірно багато найрізноманітніших опцій. І в буквальному сенсі був витвором мистецтва, адже окрім багатофункціональності, мав дуже багато тем(скінів) і підтримку найрізноманітніших візуалізацій: 
 
 ## Теми
-<img height = "150" alt="Winamp Skins" src="/winamp_skins_small.png">
+<img height = "150" alt="Winamp Skins" src="./images/winamp_skins_small.png">
 
 ## Візуалізації
 
-<img height = "100" alt="Winamp Visualisations" src="/winamp_vis_small.png">
+<img height = "100" alt="Winamp Visualisations" src="./images/winamp_vis_small.png">
 
 Власне, візуалізації теж мали багато налаштуваннь. А одна із них мала, ще більш *специфічне налаштування*:
 
-<img height = "300" alt="AVS Code" src="/avs_code.jpg">
+<img height = "300" alt="AVS Code" src="./images/avs_code.jpg">
 
 Це і був *програмний код* або вірніше *скрипт*, з яким вперше довелося побачитися! Winamp і візуальні пакети, які він в собі містить, заслуговують на окрему статтю.
 
