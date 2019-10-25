@@ -3,7 +3,7 @@ title = "Тестова Сторінка"
 date = "2019-01-02"
 modified = "2019-01-02"
 #category = "Різне"
-tags = ["markdown", "tex", "shortcodes", "теми"]
+tags = ["markdown", "shortcodes", "теми"]
 slug = "testova-storinka"
 #additional urls
 aliases = ["test1", "test2"]
@@ -27,11 +27,6 @@ timeofreading = "10 хв"
 draft = "true"
 +++
 
-<!-- dependecie of TeX--->
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.6.0/katex.min.css">
-<script src="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.6.0/katex.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.6.0/contrib/auto-render.min.js"></script>
-
 Після деякого часу пошуків статичного генератора для персональної веб-сторінки, зупинився на [HUGO](https://gohugo.io).  
 
 Кілька ключових моментів, чому саме HUGO:  
@@ -46,9 +41,6 @@ draft = "true"
 
 
 Наступний крок - це вибір теми. Серед великого числа [різноматніх тем](https://themes.gohugo.io/), обрав [Material-blog](https://themes.gohugo.io/hugo-material-blog/). Про смаки не судять :wink:
-
-Також є важливою для цього сайту підтримка [TeX](https://uk.wikipedia.org/wiki/TeX) - мова розмітки даних, а в особливості написання математичних формул. Наприклад:
-{{< tex display = "e^{i\pi} + 1 = 0" >}}.
 
 
 Різноманітні HTML вставки з інших вебсайтів використовуючи [`<iframe>`](https://www.w3schools.com/tags/tag_iframe.asp), наприклад:
@@ -350,14 +342,6 @@ enableEmoji = true
 
 [Хороша стаття](http://www.latkin.org/blog/2016/08/07/better-tex-math-typesetting-in-hugo/) про підключення TeX в HUGO, що власне використовується і на цьому сайті.  
 
-Сума в одному рядку:  
-{{< tex "\sum_{n=1}^{\infty} 2^{-n} = 1" >}}.
-
-Режим нового рядка:  
-{{< tex display="\int \frac{1}{x} dx = \ln |x|" >}}
-
-
-
 ## Shortcodes
 ---
 [Документація](https://gohugo.io/templates/shortcode-templates/)
@@ -369,11 +353,3 @@ enableEmoji = true
 [Документація](https://gohugo.io/themes/)
 
 ТУДУ: описати різні те як використовувати і писати власні чи модифікувати існуючі теми.
-
-
-
-
-
-
-<!-- dependecie of TeX--->
-<script>renderMathInElement(document.body);</script>
