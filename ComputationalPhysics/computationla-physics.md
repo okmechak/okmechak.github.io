@@ -1,13 +1,8 @@
-+++
-title = "Компютерна Фізика"
-date = "2019-01-28"
-draft = "true"
-section = "lala"
-disqus = "true"
-disqus_shortname = "компютерна-фізика"
-tags = ["recomendations", "study"]
-sidebar = "toc"
-+++
+---
+title: Компютерна Фізика
+date: 2019-01-28
+tags: [recomendations, study]
+---
 
 # Вступ
 
