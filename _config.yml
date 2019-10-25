@@ -4,6 +4,13 @@ title: DWNM
 theme: jekyll-theme-cayman
 plugins:
   - jekyll-relative-links
+  - jekyll-readme-index
+  - jekyll-optional-front-matter
+  - jekyll-paginate
+  - jekyll-redirect-from
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jemoji
 relative_links:
   enabled: true
   collections: true
