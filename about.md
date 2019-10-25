@@ -1,14 +1,7 @@
-+++
-    title =  "Про веб-сторінку"
-    linktitle =  "Про веб-сторінку"
-    weight =  "10"
-    date = "2018-07-06"
-    modified = "2018-07-06"
-    section = "Інформація про сайт"
-    slug = "about"
-    sidemenu = "true"
-    draft = "true"   
-+++
+---
+title:  Про веб-сторінку
+date: 2018-07-06
+---
 
 # Деталі
 
