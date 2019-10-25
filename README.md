@@ -14,4 +14,4 @@
 _Ліцензія [**CC BY**](https://creativecommons.org/licenses/by/3.0/)_
 
 
-<a href="https://soundcloud.com/rain_must_fall" rel="me" target="_blank"><i class="fab fa-soundcloud"></i>SoundCloud</a>
+<a href="https://soundcloud.com/rain_must_fall" rel="me" target="_blank"><i class="fa fa-soundcloud"></i>SoundCloud</a>
