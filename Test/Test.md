@@ -1,31 +1,11 @@
-+++
-title = "Тестова Сторінка"
+---
+title: Тестова Сторінка
 date = "2019-01-02"
 modified = "2019-01-02"
-#category = "Різне"
-tags = ["markdown", "shortcodes", "теми"]
-slug = "testova-storinka"
-#additional urls
-aliases = ["test1", "test2"]
-#audio:
-description = "Перевірка в практиці різних властивостей Markdown, Hugo, метаданих. Також різних модулів підключених ззовні, таких як MatJax і інші можливості HTML, які використовуються на веб-сторінці." 
-#expiryDate =
-#headless =
-#images = used by internal templates
-#keywords = key1, key2, key3
-#layout = if type isn't specified
-#lastmod =  last modification date
-#linkTitle =
-#resources = 
-#series = 
-#type = 
-#url =  full path to content from root
-#videos =  og:video
-#can be a lot user defined which will be under params field
-author = "Олег Кмечак"
-timeofreading = "10 хв"
-draft = "true"
-+++
+tags = [markdown, shortcodes, теми]
+description = Перевірка в практиці різних властивостей Markdown, Hugo, метаданих. Також різних модулів підключених ззовні, таких як MatJax і інші можливості HTML, які використовуються на веб-сторінці.
+timeofreading: 10 хв
+---
 
 Після деякого часу пошуків статичного генератора для персональної веб-сторінки, зупинився на [HUGO](https://gohugo.io).  
 
