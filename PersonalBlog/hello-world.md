@@ -1,15 +1,10 @@
-+++
-    title = "Привіт, Світе!"  
-    date = "2018-07-06"
-    modified = "2018-07-06"
-    categories = ["Персональний Блог"]
-    tags = ["hello world", "history"]
-    slug = "hello-world"  
-    authors = "Oleg Kmechak"  
-    description = "Історія про те як я почав програмувати"
-    draft = "true"  
-    topics = ["test"]
-+++
+---
+title: Привіт, Світе!
+date: 2018-07-06
+categories: [Персональний Блог]
+tags: [hello world, history]
+description: Історія про те як я почав програмувати:
+---
 
 <!---
 your comment goes here
