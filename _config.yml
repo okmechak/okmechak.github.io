@@ -1,3 +1,6 @@
+baseurl: okmechak.github.io
+title: DWNM
+
 theme: jekyll-theme-slate
 plugins:
   - jekyll-relative-links
