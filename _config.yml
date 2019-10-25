@@ -6,12 +6,4 @@ relative_links:
 include:
   - contact.md
   - about.md
-  - Test/test.md
-  - PersonalBlog/hello-world.md
-  - PersonalBlog/hot_air_baloon.md
-  - PersonalBlog/saut-libre-parkour-team.md
-  - ComputeScience/WhatToLearn.md
-  - ComputationalPhysics/computational-physics.md
-  - post/test.md
-
 theme: jekyll-theme-tactile
