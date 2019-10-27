@@ -9,9 +9,40 @@ __Чи потрібна нам математика__(Do we need math)? -  од�
  - [Комп'ютерні науки](WhatToLearn.md)
      - [Коп'ютерна фізика](computationla-physics.md)
  - [Про мене, веб-сторінку і контактна інформація](./about.md)
+ - [Тестова сторінка](./Test/Test.md)
 
-_Ліцензія [**CC BY**](https://creativecommons.org/licenses/by/3.0/)_
 
-[Тест сторінка](./Test/Test.md)
-
-<a href="https://soundcloud.com/rain_must_fall" rel="me" target="_blank"><i class="fa fa-soundcloud"></i>SoundCloud</a>
+<table>
+  <tr>
+    <th>
+      <a href="https://www.linkedin.com/in/oleg-kmechak/" target="_blank">
+        <img height="22" width="25" alt="Linkedin профіль" src="./images/linkedin-icon.png"> 
+      </a>
+    </th>
+    <th>
+     <a href="https://soundcloud.com/rain_must_fall" target="_blank">
+      <img height="25" width="25" alt="SoundCloud профіль" src="./images/soundcloud-icon.png">
+     </a>
+    </th>
+    <th>
+      <a href="https://www.youtube.com/c/OlegFedyna" target="_blank">
+        <img height="25" width="25" alt="YouTube профіль" src="./images/youtube-icon.png">
+      </a>
+    </th> 
+    <th>
+      <a href="mailto:oleg.kmechak@gmail.com">
+        <img height="15" width="20" alt="Gmail профіль" src="./images/gmail-icon.png">
+      </a>
+    </th>
+    <th>
+    </th>
+    <th>
+    </th>
+    <th>
+    </th>
+    <th>
+      <i>Ліцензія <a href="https://creativecommons.org/licenses/by/3.0/" target="_blank"><b>CC BY</b></a></i>
+      <img height="20" width="55" alt="Gmail профіль" src="./images/cc-by-icon.png">
+    </th>
+  </tr>
+</table> 
