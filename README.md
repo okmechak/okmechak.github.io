@@ -35,12 +35,6 @@ __Чи потрібна нам математика__(Do we need math)? -  од�
       </a>
     </th>
     <th>
-    </th>
-    <th>
-    </th>
-    <th>
-    </th>
-    <th>
       <i>Ліцензія <a href="https://creativecommons.org/licenses/by/3.0/" target="_blank"><b>CC BY</b></a></i>
       <img height="20" width="55" alt="Gmail профіль" src="./images/cc-by-icon.png">
     </th>
