@@ -12,7 +12,7 @@ __Чи потрібна нам математика__(Do we need math)? -  од�
  - [Тестова сторінка](./Test/Test.md)
 
 
-<table>
+<table border="0" align="center">
   <tr>
     <th>
       <a href="https://www.linkedin.com/in/oleg-kmechak/" target="_blank">
