@@ -2,7 +2,7 @@ __Чи потрібна нам математика__(Do we need math)? -  од�
 
 ## Зміст:
  - Персональний блог:
-     - [Як так сталося, що я люблю програмувати](./PersonalBlog/hello-world.md)
+     - [Розповідь про те, як я почав програмувати](./PersonalBlog/hello-world.md)
        - [Перші програми](./PersonalBlog/algo-programs.md)
      - [SautLibre](./PersonalBlog/saut-libre-parkour-team.md)
      - [Повітряна куля](./PersonalBlog/hot_air_baloon.md)
@@ -12,7 +12,7 @@ __Чи потрібна нам математика__(Do we need math)? -  од�
  - [Тестова сторінка](./Test/Test.md)
 
 
-<table border="0" align="center">
+<table>
   <tr>
     <th>
       <a href="https://www.linkedin.com/in/oleg-kmechak/" target="_blank">
