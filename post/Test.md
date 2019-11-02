@@ -30,11 +30,17 @@ date: 2019-01-02
 
 
 
+## Плагіни
 
+### jekyll-avatar
+
+`{% avatar [okmehcak] %}`
+
+{% avatar [okmehcak] %}
 
 ## Markdown
 
-###### [Першоджерело](https://daringfireball.net/projects/markdown/syntax) специфікації Markdown розмітки.
+[Першоджерело](https://daringfireball.net/projects/markdown/syntax) специфікації Markdown розмітки.
 
 ### Заголовки
 ---
