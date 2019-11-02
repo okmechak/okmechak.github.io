@@ -15,6 +15,7 @@ plugins:
   - jemoji
   - jekyll-avatar
   - jekyll-default-layout
+  - jekyll-feed
 
 relative_links:
   enabled: true
