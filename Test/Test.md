@@ -32,12 +32,19 @@ timeofreading: 10 хв
 Наразі це весь перелік використаних технологій на цьому сайті. Що ж, Поїхали!
 
 
+## Плагіни
 
+### jekyll-avatar
+
+`{% avatar okmechak %}`
+
+{% avatar okmechak %}
 
 
 ## Markdown
 
-###### [Першоджерело](https://daringfireball.net/projects/markdown/syntax) специфікації Markdown розмітки.
+[Першоджерело](https://daringfireball.net/projects/markdown/syntax) специфікації Markdown розмітки.
+
 
 ### Заголовки
 ---
