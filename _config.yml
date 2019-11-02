@@ -18,7 +18,7 @@ plugins:
 relative_links:
   enabled: true
   collections: true
-  
+
 nav:
   - title: redame
     url: readme.html
@@ -31,3 +31,8 @@ nav:
   - title: Contact
     url: contact.html
 
+markdown: CommonMarkGhPages
+
+commonmark:
+  options: ["SMART", "FOOTNOTES"]
+  extensions: ["strikethrough", "autolink", "table", "tagfilter"]
