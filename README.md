@@ -23,6 +23,11 @@ __Чи потрібна нам математика__(Do we need math)? -  од�
 <table>
   <tr>
     <th>
+      <a href="/feed.xml" target="_blank">
+        <img height="22" width="22" alt="RSS" src="./images/rss-icon.png"> 
+      </a>
+    </th>
+    <th>
       <a href="https://www.linkedin.com/in/oleg-kmechak/" target="_blank">
         <img height="22" width="25" alt="Linkedin профіль" src="./images/linkedin-icon.png"> 
       </a>

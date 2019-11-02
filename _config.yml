@@ -1,8 +1,13 @@
 baseurl: okmechak.github.io
+url: okmechak.github.io
 
 title: DWNM
 
 theme: jekyll-theme-cayman
+
+description: "Персональний вебсайт"
+
+author: "Олег Кмечак"
 
 plugins:
   - jekyll-relative-links

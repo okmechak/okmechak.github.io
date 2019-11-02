@@ -2,7 +2,7 @@
 title: Що потрібно знати програмісту?
 date: 2019-01-22
 tags: [recomendations, study]
-author: Олег Кмечак
+category: [ПРограмування]
 description: Що потрібно знати програмісту. Різні відповіді та погляди на це питання.
 timeofreading: 10 хв
 ---

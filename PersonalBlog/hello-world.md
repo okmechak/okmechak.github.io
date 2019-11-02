@@ -1,7 +1,7 @@
 ---
 title: Привіт, Світе!
 date: 2018-07-06
-categories: [Персональний Блог]
+category: ["Персональний Блог"]
 tags: [hello world, history]
 description: Історія про те як я почав програмувати
 ---
