@@ -36,7 +36,9 @@ timeofreading: 10 хв
 
 ### jekyll-avatar
 
-`{% avatar okmechak %}`
+```
+{% avatar okmechak %}
+```
 
 {% avatar okmechak %}
 

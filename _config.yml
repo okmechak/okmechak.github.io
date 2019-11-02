@@ -1,7 +1,9 @@
 baseurl: okmechak.github.io
+
 title: DWNM
 
 theme: jekyll-theme-cayman
+
 plugins:
   - jekyll-relative-links
   - jekyll-readme-index
@@ -12,9 +14,11 @@ plugins:
   - jekyll-seo-tag
   - jemoji
   - jekyll-avatar
+
 relative_links:
   enabled: true
   collections: true
+  
 nav:
   - title: redame
     url: readme.html
