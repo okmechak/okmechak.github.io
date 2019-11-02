@@ -14,6 +14,7 @@ plugins:
   - jekyll-seo-tag
   - jemoji
   - jekyll-avatar
+  - jekyll-default-layout
 
 relative_links:
   enabled: true
