@@ -336,8 +336,8 @@ enableEmoji = true
 
 include тест:
 
-{% include YouTubeEmbeded.html id=gEl6Y5mjeis %}
-{% include SoundCloudEmbeded.html id=346786933 %}
+{% include YouTubeEmbeded.html id="gEl6Y5mjeis" %}
+{% include SoundCloudEmbeded.html id="346786933" %}
 
 ## Математичні формули
 ---
