@@ -1,6 +1,12 @@
 ---
-layout: page
 title: Перші програми
+date: 2019-09-24
+category: 
+    - Персональний Блог
+tags:   
+    - Історія
+description: Опис моїх перших програм
+layout: page
 ---
 
 # Перші програми
