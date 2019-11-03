@@ -7,7 +7,6 @@ tags:
 category: 
     - Персональний блог
 description: History about human spirit
-layout: page
 ---
 
 # Кілька відео

@@ -6,7 +6,6 @@ tags:
     - Фізика
 category: 
     - Фізика
-layout: page
 ---
 
 # Вступ

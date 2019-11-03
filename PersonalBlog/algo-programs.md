@@ -6,7 +6,6 @@ category:
 tags:   
     - Історія
 description: Опис моїх перших програм
-layout: page
 ---
 
 # Перші програми
