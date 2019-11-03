@@ -330,6 +330,9 @@ enableEmoji = true
     <iframe src="https://www.youtube.com/embed/RavnmzMRrnw" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
 </div>   
 
+`<iframe width="560" height="315" src="https://www.youtube.com/embed/gEl6Y5mjeis" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gEl6Y5mjeis" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## Математичні формули
