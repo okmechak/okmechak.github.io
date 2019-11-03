@@ -5,9 +5,9 @@ title: DWNM
 
 theme: jekyll-theme-cayman
 
-description: "Персональний вебсайт"
+description: Публікую про програмування, фізику і золоту серединку поміж них.
 
-author: "Олег Кмечак"
+author: Олег Кмечак
 
 plugins:
   - jekyll-relative-links
