@@ -19,7 +19,7 @@ plugins:
   - jekyll-seo-tag # search engine
   - jemoji
   - jekyll-avatar # github avatar
-  - jekyll-default-layout 
+# - jekyll-default-layout 
   - jekyll-feed # atom feeed
   - jekyll-remote-theme # loads jekyll themes from opensource themes
 
@@ -53,9 +53,5 @@ feed:
     - Фізика
     - Програмування
     - Подорожі
-
-relative_links:
-    enabled:     true
-    collections: true
 
 # remote_theme: benbalter/retlab
