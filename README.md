@@ -59,8 +59,8 @@ __Чи потрібна нам математика__(Do we need math)? -  од�
       <a href="https://www.youtube.com/c/OlegFedyna" target="_blank">
         <img height="25" width="25" alt="YouTube профіль" src="./images/youtube-icon.png">
       </a>
-    </th width=10%> 
-    <th>
+    </th> 
+    <th  width=10%>
       <a href="mailto:oleg.kmechak@gmail.com">
         <img height="15" width="20" alt="Gmail профіль" src="./images/gmail-icon.png">
       </a>
