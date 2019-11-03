@@ -22,6 +22,7 @@ plugins:
   - jekyll-default-layout
   - jekyll-feed
   - jekyll-remote-theme
+  - jekyll-titles-from-headings
 
 relative_links:
   enabled: true
