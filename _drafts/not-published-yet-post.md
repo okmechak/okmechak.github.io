@@ -1,6 +1,8 @@
 ---
-layout: post
-title: Dev
-categories: [blog, travel]
-tags: [hot, summer]
+title: Розробка
+categories: 
+    - Персональний блог 
+    - Подорожі
+tags: 
+    - Літо
 ---

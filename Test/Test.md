@@ -2,8 +2,12 @@
 title: Тестова Сторінка
 date: "2019-01-02"
 modified: 2019-01-02
-category: [Тест]
-tags: [markdown, shortcodes, теми]
+category: 
+    - Тест
+tags: 
+    - markdown
+    - shortcodes
+    - теми
 description: Перевірка в практиці різних властивостей Markdown, Hugo, метаданих. Також різних модулів підключених ззовні, таких як MatJax і інші можливості HTML, які використовуються на веб-сторінці.
 timeofreading: 10 хв
 ---
