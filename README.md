@@ -40,32 +40,33 @@ __Чи потрібна нам математика__(Do we need math)? -  од�
 
 <table>
   <tr>
-    <th width=10%>
+    <th>
       <a href="/feed.xml" target="_blank">
         <img height="22" width="22" alt="RSS" src="./images/rss-icon.png"> 
       </a>
     </th>
-    <th width=10%>
+    <th>
       <a href="https://www.linkedin.com/in/oleg-kmechak/" target="_blank">
         <img height="22" width="25" alt="Linkedin профіль" src="./images/linkedin-icon.png"> 
       </a>
     </th>
-    <th width=10%>
+    <th>
      <a href="https://soundcloud.com/rain_must_fall" target="_blank">
       <img height="25" width="25" alt="SoundCloud профіль" src="./images/soundcloud-icon.png">
      </a>
     </th>
-    <th width=10%>
+    <th>
       <a href="https://www.youtube.com/c/OlegFedyna" target="_blank">
         <img height="25" width="25" alt="YouTube профіль" src="./images/youtube-icon.png">
       </a>
     </th> 
-    <th  width=10%>
+    <th>
       <a href="mailto:oleg.kmechak@gmail.com">
         <img height="15" width="20" alt="Gmail профіль" src="./images/gmail-icon.png">
       </a>
     </th>
-    <th width=80% align="right">
+    <th align="right">
+        &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
       <i>Ліцензія <a href="https://creativecommons.org/licenses/by/3.0/" target="_blank"><b>CC BY &nbsp;</b>
       <img height="20" width="55" alt="Gmail профіль" src="./images/cc-by-icon.png"></a></i>
     </th>
