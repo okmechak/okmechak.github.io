@@ -11,7 +11,7 @@ tags:
 description: Перевірка в практиці різних властивостей Markdown, Hugo, метаданих. Також різних модулів підключених ззовні, таких як MatJax і інші можливості HTML, які використовуються на веб-сторінці.
 timeofreading: 10 хв
 redirect_from: 
-    - /poster/test 
+    - poster/test
 layout: page
 ---
 
