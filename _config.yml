@@ -21,6 +21,7 @@ plugins:
   - jekyll-avatar
   - jekyll-default-layout
   - jekyll-feed
+  - jekyll-remote-theme
 
 relative_links:
   enabled: true
@@ -52,3 +53,9 @@ feed:
     - Фізика
     - Програмування
     - Подорожі
+
+relative_links:
+    enabled:     true
+    collections: true
+
+remote_theme: benbalter/retlab
