@@ -6,6 +6,7 @@ category:
 tags:   
     - Історія
 description: Історія про те як я почав програмувати
+layout: page
 ---
 
 <!---

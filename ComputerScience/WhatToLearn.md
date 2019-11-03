@@ -8,6 +8,7 @@ category:
     - Програмування
 description: Що потрібно знати програмісту. Різні відповіді та погляди на це питання.
 timeofreading: 10 хв
+layout: page
 ---
 
 TODO

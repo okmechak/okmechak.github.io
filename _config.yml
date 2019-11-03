@@ -10,19 +10,18 @@ description: Публікую про програмування, фізику і
 author: Олег Кмечак
 
 plugins:
-  - jekyll-relative-links
-  - jekyll-readme-index
-  - jekyll-optional-front-matter
-  - jekyll-paginate
+  - jekyll-relative-links # md -> html
+  - jekyll-readme-index # use readme as index
+  - jekyll-optional-front-matter # front matter of files becomes optional
+  - jekyll-paginate 
   - jekyll-redirect-from
-  - jekyll-sitemap
-  - jekyll-seo-tag
+  - jekyll-sitemap # search engine
+  - jekyll-seo-tag # search engine
   - jemoji
-  - jekyll-avatar
-  - jekyll-default-layout
-  - jekyll-feed
-  - jekyll-remote-theme
-  - jekyll-titles-from-headings
+  - jekyll-avatar # github avatar
+  - jekyll-default-layout 
+  - jekyll-feed # atom feeed
+  - jekyll-remote-theme # loads jekyll themes from opensource themes
 
 relative_links:
   enabled: true
