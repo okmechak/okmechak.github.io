@@ -13,13 +13,13 @@ plugins:
   - jekyll-relative-links # md -> html
   - jekyll-readme-index # use readme as index
   - jekyll-optional-front-matter # front matter of files becomes optional
-  - jekyll-paginate 
+  - jekyll-paginate #pagination
   - jekyll-redirect-from
   - jekyll-sitemap # search engine
   - jekyll-seo-tag # search engine
-  - jemoji
+  - jemoji # emojis
   - jekyll-avatar # github avatar
-  - jekyll-default-layout 
+  - jekyll-default-layout # ??
   - jekyll-feed # atom feeed
   - jekyll-remote-theme # loads jekyll themes from opensource themes
 
