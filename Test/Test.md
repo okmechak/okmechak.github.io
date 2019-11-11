@@ -314,9 +314,12 @@ enableEmoji = true
 
 include тест:
 
+не працюють
+<!--
 {% include YouTubeEmbeded.html id="gEl6Y5mjeis" %}
 {% include SoundCloudEmbeded.html id="346786933" %}
 {% include Test.html %}
+-->
 
 ## Математичні формули
 ---
