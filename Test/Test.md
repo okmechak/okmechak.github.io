@@ -312,15 +312,6 @@ enableEmoji = true
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gEl6Y5mjeis" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-include тест:
-
-не працюють
-<!--
-{% include YouTubeEmbeded.html id="gEl6Y5mjeis" %}
-{% include SoundCloudEmbeded.html id="346786933" %}
-{% include Test.html %}
--->
-
 ## Математичні формули
 ---
 
