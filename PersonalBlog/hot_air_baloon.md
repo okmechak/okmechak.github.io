@@ -2,74 +2,83 @@
 title: Повітряна Куля (Sunday)
 date: 2018-07-06
 tags: 
-    - Літати
+    - Лети
     - Історія
 category: 
     - Персональний блог
-description: Історія про нездійснену мрію піднятися вище хмар.
+description: Історія про мрію піднятися вище хмар.
 ---
 
-# Hot-Air-Balloon
+# Повітряна куля: Сонячний День(Sunday).
 
-Hot Air Balloon - lighter than air aircraft that gains its lift through the use of buoyant gas. In this case - hot gas. 
-Average density of aircraft is lower than the density of atmosphere air.
+Повітряна куля - це літальний апарат, який легший за повітря. Повітряна куля, як і кусочок пінопласту який спливає на поверхню води, взлітає вверх, допоки атмосфера не стане настільки розрідженою, що вже не зможе вище виштовхнути її. Густина повітряної кулі в середньому повинна бути меншою від повітря довкола.
 
 ![Stylized picture of balloon](images/3d3-photoshop.bmp)
-__Yeap, at beginning I thought to name balloon as EUROPA. But Last version should be - Sunday.__
 
-Repository contains code which helps to project hot air balloon.
+__Так, спочатку хотів назвати кулю Europa, та пізніше назва всеж була змінена на Sunday.__
 
-Program consist of three main files:
-- balloon.pas - helps to project geometry of your own balloon.
-- pascal.pas - evaluates phisical forces and parameters of balloon.
-- 3D-model.pas - used for 3D visualization of balloon.
+## Передісторія
+
+Ще в дитинстві, як вітчим розказав мені про принцип дії крила, а пізніше ми і сконструювали невеличкий літачок, від думок про літання я вже не міг відійти. Багато просижував в бібліотеці читаючи про аеродинаміку, NASA, дельтаплани та інше, Хоч нажаль не багато з того розумів. 
+
+В якийсь момент вирішив, що пора діяти і дельтаплани здавалися "найпростішими" в реалізації. Знайшов кілька моделей:
+- Модель 1962 року [__Paresev__](https://en.wikipedia.org/wiki/NASA_Paresev). Хотя насправді йдеться про радянську весрію, яку я не зміг знайти тепер в інтернеті. ![Paresev дельта-плана](images/ParesevDeltaPlane.jpg)
+- Навчальний дельтапан __Атлас__. Складніший в конструкції і з кращими характеристиками. ![Дельтаплан Атлас](images/DeltaPlaneAtlas.gif)
+- Дальтаплан __Тайфун__, який до того ж міг бути моторним і теж мав креслення в інтернеті. ![Дельтаплан Тайфун](images/DeltaPlaneTajfun.jpg)
+
+Розібравшись із кресленнями і поробивши невеличкі моделі, зі штапіків, поліетиленової плівки та скотчу, почав шукати матеріали для повномаштабної версії. Та тут мене спіткали труднощі, які не зміг здолати на той момент. Алюмінієвих(або дюралюмінієвих) труб з відповідними діаметром і довжиною не було в продажі. Матеріал для латів(невеличкі трубки, які наче пальці в кажана вставляються в крило) теж не міг знайти. Проект зупинився..
+
+Минуло не багато часу, як дивлячись передачу на National Geographic про традицію запускати небесні ліхтарики на воді мене осяйнуло, що більш дешевим, легшим і швидшим буде зробити саме повітряну кулю! 
+![Небесний ліхтарик](images/НебеснийЛіхтарик.jpg)
+Тут і починається цей проект.
+
+
+Спочатку треба все детально спроектувати, а тому було написано кілька програм в Pascal для цього:
+
+- [balloon.pas](https://github.com/okmechak/Hot-Air-Balloon/blob/master/baloon.pas) - проектування креслення кулі, задавання деяких базових параметрів.
+- [pascal.pas](https://github.com/okmechak/Hot-Air-Balloon/blob/master/pascal.pas) - вираховує фізичні нагрузки на кулю і саме основне її вантажопідйомність.
+- [3D_model.pas](https://github.com/okmechak/Hot-Air-Balloon/blob/master/3D_Model.pas) - Використовується для 3D візуалізації моделі.
 
 ## Sunday
 
-Also repository contains my own project for one person Hot Air Ballon(see folder Tup "A14" Sunday).
-Why Sunday? Becouse Ballon demmands good weather conditions for flight, temperature, wind, hummidity etc.. 
-in same way as we demand a good weather to sunday walk ;)
+Після етапу проектування, я оприділився із кількома важливими параметрами кулі, це мала бути:
 
-Some main model parameters are contained in:
-- info.txt
-- main-parameters.txt
-- Money-And-Tools.txt
+- __Одномісна куля__. Оскільки чим менша маса, тим легше її зробити.
+- __Підйомна маса__ - __180 кілограм__. Взято із запасом
+- І __об'єм__ після проектування - __650 метрів кубічних__. Що відповідало 16 метрам висоти!
 
-But let write down two most imporatnt of them:
-- __Lift mass - 180 kg__ 
-- __Volume - 650 m^3__
+Деякі параметри також тут є:
 
-As you can see it is pretty big balloon!
+- [info.txt](https://github.com/okmechak/Hot-Air-Balloon/blob/master/Type-A14-Sunday/info.txt)
+- [main-parameters.txt](https://github.com/okmechak/Hot-Air-Balloon/blob/master/main%20parameters.txt)
+- [Money-And-Tools.txt](https://github.com/okmechak/Hot-Air-Balloon/blob/master/Type-A14-Sunday/Money-and-Tools.txt)
 
-### Geometry
-![Geometry of Sunday](images/12-20-2010-8-21-52-PM.bmp)
+## Проектні креслення і обрахунки
 
-### Physical Forces
-![Physical Forces of Sunday](images/Phisics.bmp)
+### Геометрія
 
-### Cutting Scheme
-![Cutting Scheme of Sunday](images/untitled.bmp)
+![Геометрія](images/12-20-2010-8-21-52-PM.bmp)
 
-### 3D Model
-![3D Model of Sunday](images/3d3-photoshop.bmp)
+### Фізичні сили
 
+![Фізичні сили](images/Phisics.bmp)
 
+### Схема кроєння поліетилену
 
-## History
+![Схема кроєння](images/untitled.bmp)
 
-### First Part
+### 3D модель 
 
-My stepfather gave me love to sky when I was child. He described principle of wing, how it works, 
-also we have done several paper planes. I loved them! As time was passing.. I went to local 
-library where was internet. Where for the first time I discovered Google and Wikipedia, where was a lot information
-about deltaplanes, wings, aero- hydrodynamics etc. Structure sheets of deltaplanes its sizes and components.
-And I started gathering information about how to do one for myself. It took me a lot of time, till moment when
-I realized that it is quite difficult to make deltaplane.
++ трішки фотошопу :wink:
 
-Some time later, I was watching National Geographic channel about some small community of people in middle 
-of Pacific Ocean, which had tradiotion to make floating on water hot air balloons. At this was that moment, which I was waiting for.
-I realized that this is most easy and chip aircraft to do. At first I was doing small balloons from trash bags, but with
-time things was getting bigger and more complicated...
+![3D модель](images/3d3-photoshop.bmp)
 
-### Second Part
-TODO: actual developmen and fall of process..
+## Математика і фізика повітряної кулі
+
+Не дарма в більшость людей сильний страх висоти. Падіння з висоти є смертельно небезпечним для нас. А тому повітряна куля повинна бути настільки надійною, наскільки це можливо. Та як цього досягнути, не тестуючи її безпосередньо на собі і не ризикуючи свої життям? 
+
+Далі буде...
+
+## Чому саме Sunday
+
+## Роздуми про те, чому проект впав.
